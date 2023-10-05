@@ -1,0 +1,57 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    opacity: 0.8;
+    background-attachment: fixed;
+  }
+
+  h1 {
+    color: rgb(225, 243, 175);
+    text-align: center;
+    font: 3.2rem "Fira Sans", sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    background-color: black;
+    border: 1px solid;
+    padding: 5px;
+    box-shadow: 3px 5px lightgray;
+    box-sizing: border-box;
+  }
+
+  h2 {
+    color: lightgray;
+    text-align: center;
+    font-family: "Papyrus", fantasy;
+    font-style: italic;
+    margin: auto;
+    width: 20%;
+    border: 3px solid lightgray;
+    padding: 10px;
+  }
+
+  h3 {
+    color: lightgray;
+    text-align: center;
+    font-family: "Papyrus", fantasy;
+    font-style: italic;
+    margin: auto;
+    width: 20%;
+    border: 3px solid lightgray;
+    padding: 10px;
+  }
+
+  dt {
+    color: rgb(225, 243, 175);
+    text-align: center;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+    font-size: 28px;
+    
+  }
+  dd {
+    color: lightgray;
+    text-align: center;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+    font-size: 20px;
+  }
